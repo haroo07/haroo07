@@ -185,6 +185,6 @@ goals:
 
 **⭐ If you like my work, consider starring my repos — it means a lot! ⭐**
 
-<img src="https://visitcount.itsvg.in/api?id=haroo07&icon=6&color=0" />
+<img src="https://komarev.com/ghpvc/?username=haroo07&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
 
 </div>
