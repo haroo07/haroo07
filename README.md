@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Web Developer | SEO Specialist | Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=haroo07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haroo07&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroo07&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 📈 Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroo07&theme=tokyo-night"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=haroo07&theme=onedark&row=1&column=6"/>
 </p>
 
 ---
@@ -113,7 +113,5 @@
 ## 🔢 Visitor Counter  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=haroo07icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=haroo07&icon=0&color=0" />
 </p>
-
----
