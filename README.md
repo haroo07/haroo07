@@ -1,117 +1,88 @@
-# 👋 Hi, I'm Haroon  
+# Hi, I'm Haroon 👋  
 
-<h3 align="center">🚀 Web Developer | SEO Specialist | Mobile App Developer</h3>
+### Web Developer | SEO Specialist | Mobile App Developer  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haroo07&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+App+Developer;SEO+Expert;Always+Learning+New+Things" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=haroo07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 👨‍💻 About Me  
 
-<p align="center">
-  <a href="mailto:Haroonie07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Phone-+92%2032645%2082710-green?style=for-the-badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Punjab,%20Pakistan-blue?style=for-the-badge"/>
-  </a>
+I am a **Web & Mobile App Developer** with hands-on experience in building responsive websites and cross-platform applications. I focus on **performance, scalability, and SEO optimization** to deliver high-quality digital solutions.  
+
+- 📱 Developing mobile apps using **Flutter & Firebase**  
+- 🌐 Building SEO-optimized web solutions  
+- ⚡ Improving performance and load speed  
+- 📊 Helping businesses grow with technology  
+
+---
+
+## 🛠️ Technical Skills  
+
+### Programming  
+- JavaScript  
+- PHP  
+- Python  
+- C++  
+- Dart  
+
+### Web Development  
+- HTML5, CSS3, Bootstrap  
+- WordPress (Theme & Plugin Development)  
+
+### Mobile Development  
+- Flutter  
+- Firebase Integration  
+
+### Tools & Technologies  
+- Git & GitHub  
+- MySQL  
+- Google Analytics  
+- Search Console  
+
+---
+
+## 📊 GitHub Statistics  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=haroo07&show_icons=true&theme=default" height="150"/>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 📌 Featured Work  
 
-💻 Passionate **Web & Mobile App Developer**  
-📱 Building apps using **Flutter & Firebase**  
-🌐 Creating SEO-optimized websites  
-⚡ Love optimizing performance & speed  
-📈 Helping businesses grow online  
+- 📱 **Flutter Applications**  
+  Chat apps, calculators, and API-based mobile apps  
 
----
+- 🌐 **WordPress Development**  
+  Custom themes, plugin customization, and SEO optimization  
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=js,php,python,cpp,dart" />
-</p>
-
-### 🌐 Web Development  
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" />
-</p>
-
-### 📱 Mobile Development  
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
-
-### ⚙️ Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
+- 🛒 **E-commerce Solutions**  
+  WooCommerce stores with improved performance and conversions  
 
 ---
 
-## 📊 GitHub Stats  
+## 🎯 Professional Goals  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroo07&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroo07&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroo07&theme=tokyo-night"/>
-</p>
+- Build scalable full-stack and mobile applications  
+- Contribute to open-source projects  
+- Develop production-level SaaS products  
 
 ---
 
-## 🏆 Achievements  
+## 📫 Contact  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haroo07&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
-## 📂 Featured Projects  
-
-🚀 **Flutter Apps** – Chat App, Calculator, API-based Apps  
-🌐 **WordPress Projects** – Custom Themes & SEO Optimization  
-🛒 **E-commerce Stores** – WooCommerce + Performance Boost  
+- Email: Haroonie07@gmail.com  
+- Phone: +92 32645 82710  
+- Location: Punjab, Pakistan  
 
 ---
 
-## 🎯 Goals  
+## 🔢 Visitors  
 
-✔ Become Full Stack + Mobile Expert  
-✔ Build Scalable Apps  
-✔ Contribute to Open Source  
-✔ Launch My Own SaaS Product  
-
----
-
-## 🔥 Fun Fact  
-
-💡 I turn ideas into real-world applications 🚀  
-
----
-
-## 🔢 Visitor Counter  
-
-<p align="center">
+<p align="left">
   <img src="https://visitcount.itsvg.in/api?id=haroo07&icon=0&color=0" />
 </p>
