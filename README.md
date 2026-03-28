@@ -1,146 +1,119 @@
-Here’s your **updated README** with **Mobile App Developer** added professionally 👇
+# 👋 Hi, I'm Haroon  
+
+<h3 align="center">🚀 Web Developer | SEO Specialist | Mobile App Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+App+Developer;SEO+Expert;Always+Learning+New+Things" />
+</p>
 
 ---
 
-# 👋 Hi, I'm Haroon
+## 🌐 Connect With Me  
 
-## 💼 Web Developer, Mobile App Developer & SEO Specialist 
-
-📧 Email: [Haroonie07@gmail.com](mailto:Haroonie07@gmail.com)
-📱 Phone: +92 32645 82710
-📍 Location: Punjab, Pakistan
-
----
-
-## 🚀 Profile Summary
-
-Detail-oriented **Web & Mobile App Developer** with nearly 1 year of experience in building responsive websites and cross-platform mobile applications. Skilled in **WordPress, PHP, Flutter, and full-stack development** with a strong focus on performance and SEO.
-
-✔ Improved website rankings and boosted organic traffic
-✔ Reduced website load time by **40%**
-✔ Developed responsive and user-friendly mobile applications
-✔ Increased SEO performance and user engagement
+<p align="center">
+  <a href="mailto:Haroonie07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Phone-+92%2032645%2082710-green?style=for-the-badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Location-Punjab,%20Pakistan-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me  
 
-### 💻 Programming Languages
-
-* JavaScript
-* PHP
-* Python
-* C++
-* Dart
-
-### 🌐 Web Development
-
-* HTML5, CSS3, Bootstrap
-* Responsive Design
-
-### 📱 Mobile App Development
-
-* Flutter
-* Cross-platform App Development
-* UI/UX Design for Mobile
-* Firebase Integration
-
-### ⚙️ Frameworks & Tools
-
-* WordPress
-* WooCommerce
-* Google Analytics
-* Search Console
-
-### 🗄️ Database
-
-* MySQL
-* Firebase
+💻 Passionate **Web & Mobile App Developer**  
+📱 Building apps using **Flutter & Firebase**  
+🌐 Creating SEO-optimized websites  
+⚡ Love optimizing performance & speed  
+📈 Helping businesses grow online  
 
 ---
 
-## 📈 Core Competencies
+## 🛠️ Tech Stack  
 
-* Website Development & Design
-* WordPress Theme & Plugin Development
-* SEO Optimization & Strategy
-* Mobile App Development (Flutter)
-* E-commerce Development (WooCommerce)
-* ⚡ Performance Optimization & Speed Improvements
-* Responsive UI/UX Design
-* Website Security & Maintenance
+### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,python,cpp,dart" />
+</p>
 
----
+### 🌐 Web Development  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" />
+</p>
 
-## 💼 Work Experience
+### 📱 Mobile Development  
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
-### 🧑‍💻 Freelance Web Developer, SEO Specialist & Mobile App Developer
-
-📍 Remote | June 2023 – March 2024
-
-**Responsibilities:**
-
-* Developed and maintained WordPress websites
-* Built mobile apps using Flutter
-* Customized themes and plugins
-* Implemented SEO strategies
-* Conducted keyword research
-* Integrated WooCommerce stores
-
-**🔥 Key Achievements:**
-
-* 🚀 Improved SEO ranking from **Page 3 → Page 1**
-* ⚡ Reduced website load time by **40%**
-* 📊 Increased conversion rate by **25%**
-* 📱 Developed responsive mobile apps with smooth UI
+### ⚙️ Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats  
 
-### 🔹 Custom WordPress Theme Development
-
-* Tools: PHP, JavaScript, WordPress, Bootstrap
-* Role: Full Stack Developer
-* Built SEO-optimized, fast, and responsive theme
-
----
-
-### 🔹 E-commerce Website Optimization
-
-* Tools: WooCommerce, Google Analytics
-* Focus: Performance + SEO
-* Result: Increased traffic & improved site speed
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-### 🔹 Flutter Mobile Applications
+## 📈 Activity Graph  
 
-* Tools: Flutter, Firebase
-* Role: Mobile App Developer
-* Built responsive apps including chat systems, calculators, and API-based apps
-
----
-
-## 🎯 Soft Skills
-
-* Analytical Thinking
-* Collaboration
-* Leadership
-* Adaptability
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements  
 
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
----
-
-## 🌐 Let's Connect
-
-Feel free to connect and collaborate 🚀
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
+</p>
 
 ---
 
-If you want, I can also **make this README more attractive (with badges, animations, and icons like pro GitHub profiles)** 🔥
+## 📂 Featured Projects  
+
+🚀 **Flutter Apps** – Chat App, Calculator, API-based Apps  
+🌐 **WordPress Projects** – Custom Themes & SEO Optimization  
+🛒 **E-commerce Stores** – WooCommerce + Performance Boost  
+
+---
+
+## 🎯 Goals  
+
+✔ Become Full Stack + Mobile Expert  
+✔ Build Scalable Apps  
+✔ Contribute to Open Source  
+✔ Launch My Own SaaS Product  
+
+---
+
+## 🔥 Fun Fact  
+
+💡 I turn ideas into real-world applications 🚀  
+
+---
+
+## 🔢 Visitor Counter  
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=haroo07icon=0&color=0" />
+</p>
+
+---
