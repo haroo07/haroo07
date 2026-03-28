@@ -1,6 +1,10 @@
+Here’s your **updated README** with **Mobile App Developer** added professionally 👇
+
+---
+
 # 👋 Hi, I'm Haroon
 
-## 💼 Web Developer & SEO Specialist
+## 💼 Web Developer, Mobile App Developer & SEO Specialist 
 
 📧 Email: [Haroonie07@gmail.com](mailto:Haroonie07@gmail.com)
 📱 Phone: +92 32645 82710
@@ -10,10 +14,11 @@
 
 ## 🚀 Profile Summary
 
-Detail-oriented Web Developer with nearly 1 year of experience in building responsive and SEO-optimized websites. Skilled in **WordPress, PHP, and full-stack development** with a strong focus on performance and search engine ranking.
+Detail-oriented **Web & Mobile App Developer** with nearly 1 year of experience in building responsive websites and cross-platform mobile applications. Skilled in **WordPress, PHP, Flutter, and full-stack development** with a strong focus on performance and SEO.
 
 ✔ Improved website rankings and boosted organic traffic
 ✔ Reduced website load time by **40%**
+✔ Developed responsive and user-friendly mobile applications
 ✔ Increased SEO performance and user engagement
 
 ---
@@ -26,11 +31,19 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 * PHP
 * Python
 * C++
+* Dart
 
 ### 🌐 Web Development
 
 * HTML5, CSS3, Bootstrap
 * Responsive Design
+
+### 📱 Mobile App Development
+
+* Flutter
+* Cross-platform App Development
+* UI/UX Design for Mobile
+* Firebase Integration
 
 ### ⚙️ Frameworks & Tools
 
@@ -42,6 +55,7 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 ### 🗄️ Database
 
 * MySQL
+* Firebase
 
 ---
 
@@ -50,6 +64,7 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 * Website Development & Design
 * WordPress Theme & Plugin Development
 * SEO Optimization & Strategy
+* Mobile App Development (Flutter)
 * E-commerce Development (WooCommerce)
 * ⚡ Performance Optimization & Speed Improvements
 * Responsive UI/UX Design
@@ -59,13 +74,14 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 
 ## 💼 Work Experience
 
-### 🧑‍💻 Freelance Web Developer & SEO Specialist
+### 🧑‍💻 Freelance Web Developer, SEO Specialist & Mobile App Developer
 
 📍 Remote | June 2023 – March 2024
 
 **Responsibilities:**
 
 * Developed and maintained WordPress websites
+* Built mobile apps using Flutter
 * Customized themes and plugins
 * Implemented SEO strategies
 * Conducted keyword research
@@ -76,6 +92,7 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 * 🚀 Improved SEO ranking from **Page 3 → Page 1**
 * ⚡ Reduced website load time by **40%**
 * 📊 Increased conversion rate by **25%**
+* 📱 Developed responsive mobile apps with smooth UI
 
 ---
 
@@ -97,6 +114,14 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 
 ---
 
+### 🔹 Flutter Mobile Applications
+
+* Tools: Flutter, Firebase
+* Role: Mobile App Developer
+* Built responsive apps including chat systems, calculators, and API-based apps
+
+---
+
 ## 🎯 Soft Skills
 
 * Analytical Thinking
@@ -115,3 +140,7 @@ Detail-oriented Web Developer with nearly 1 year of experience in building respo
 ## 🌐 Let's Connect
 
 Feel free to connect and collaborate 🚀
+
+---
+
+If you want, I can also **make this README more attractive (with badges, animations, and icons like pro GitHub profiles)** 🔥
