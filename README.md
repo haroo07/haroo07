@@ -27,7 +27,7 @@ name:        Haroon
 location:    Punjab, Pakistan 🇵🇰
 role:        Full Stack Developer | Flutter Dev | SEO Expert
 email:       Haroonie07@gmail.com
-phone:       +92 326 4582710
+phone:       +92 342 7772809
 
 currently:
   - Building cross-platform apps with Flutter & Firebase
@@ -52,7 +52,7 @@ goals:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-Haroonie07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Haroonie07@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%2032645%2082710-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923264582710)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%2034277%2072809-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923264582710)
 [![Location](https://img.shields.io/badge/Location-Punjab%2C%20Pakistan-0078D4?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-haroo07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haroo07)
 
